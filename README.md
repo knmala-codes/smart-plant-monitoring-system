@@ -73,3 +73,15 @@ void onRelayChange() {
     digitalWrite(D0, LOW);   // turn pump OFF
   }
 }
+```
+
+---
+
+HARDWARE CONNECTIONS:
+<img width="399" height="203" alt="image" src="https://github.com/user-attachments/assets/bdbd826f-75b1-429b-b8af-4930870f0b53" />
+
+OUTPUT IN IOT REMOTE APP:
+<img width="337" height="673" alt="image" src="https://github.com/user-attachments/assets/eb0f0953-37d0-40b8-931a-a67e56367bf2" />
+
+
+
