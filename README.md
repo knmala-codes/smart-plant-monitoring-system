@@ -75,5 +75,3 @@ void onRelayChange() {
 }
 ```
 ---
-AUTHORSHIP:
-This project was developed by Kanchanamala P as part of BEEE102L at VIT Chennai; do not submit it as your own coursework.
